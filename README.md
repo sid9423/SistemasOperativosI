@@ -59,7 +59,8 @@ ________________________________________________________________________________
  **Unidad** | **Temas** | **Subtemas**
  ---------- | --------- | -----------
   1 | Introduccion a los sistemas operativos | 1.1 Definicion y concepto
- | |					       1.2 Funciones y caracteristicas
+
+1.2 Funciones y caracteristicas
  | |                                           1.3 Evolucion Historica
  | |                                           1.4 Clacificacion                                       
  | | 1.5 Estructura (niveles o estratos)

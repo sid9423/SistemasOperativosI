@@ -56,6 +56,11 @@ ________________________________________________________________________________
 
 # Temario
 
-| TITULO1 | TITULO2 |
+ **Unidad** | **Temas** | **Subtemas**
+
+ ---------- | --------- | -----------
+
+  1 | Introduccion a los sistemas operativos | 1.1 Definicion y concepto
+					     | 1.2 Funciones y caracteristicas
 
 | CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |

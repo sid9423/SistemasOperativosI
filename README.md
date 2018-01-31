@@ -59,12 +59,12 @@ ________________________________________________________________________________
  **Unidad** | **Temas** | **Subtemas**
  ---------- | --------- | -----------
   1 | Introduccion a los sistemas operativos | 1.1 Definicion y concepto
-					       1.2 Funciones y caracteristicas
-                                               1.3 Evolucion Historica
-                                               1.4 Clacificacion
-                                               1.5 Estructura (niveles o estratos)
-                                               1.6 Nucleo
-	                                       1.6.1 Interrupciones (FUH)
-	                                       1.6.2 Despachador (Scheduler)
-	                                       1.6.3 Primitivas de comunicacion (IPC) |
- 2 | Administracion de procesos y del procesador | 
+ | |					       1.2 Funciones y caracteristicas
+ | |                                           1.3 Evolucion Historica
+ | |                                           1.4 Clacificacion                                       
+ | | 1.5 Estructura (niveles o estratos)
+ | | 1.6 Nucleo
+ | | 1.6.1 Interrupciones (FUH)
+ | | 1.6.2 Despachador (Scheduler)
+ | | 1.6.3 Primitivas de comunicacion (IPC) 
+ 2 | Administracion de procesos y del procesador | asdf

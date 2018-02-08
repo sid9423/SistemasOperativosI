@@ -69,6 +69,11 @@ ________________________________________________________________________________
 
 # Descripcion de las Tareas
 
+# Mapa mental
+
+**Mapa mental de las partes de una computadora**
+
+Mapa mental donde se muestran las partes fundamentales de una computadora.
 __________________________________________________________________________________________
 
 # Glosario

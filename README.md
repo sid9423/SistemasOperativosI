@@ -74,6 +74,12 @@ ________________________________________________________________________________
 **Mapa mental de las partes de una computadora**
 
 Mapa mental donde se muestran las partes fundamentales de una computadora.
+
+# Guia del Examen
+
+**Guia Examen Unidad I**
+
+Guia en la cual se contienen 10 preguntas relacionadas con la primera unidad del Temario de Sistemas Operativos.
 __________________________________________________________________________________________
 
 # Glosario
@@ -81,3 +87,5 @@ ________________________________________________________________________________
 **RDIM:** Registro de direccion de memoria.
 
 **RDAM:** Registro de datos de memoria. 
+
+___________________________________________________________________________________________

@@ -82,6 +82,20 @@ Mapa mental donde se muestran las partes fundamentales de una computadora.
 Guia en la cual se contienen 10 preguntas relacionadas con la primera unidad del Temario de Sistemas Operativos.
 __________________________________________________________________________________________
 
+# Unidad II
+**Programa en c holamundo.c**
+
+Tipica linea que se usa cuando como ejemplo cuando se comienza a programar en un lenguaje.
+
+**Programa en c calculadorabasica.c**
+
+Calculadora sencilla con funciones basicas.
+
+**Programa en c arreglo.c**
+
+Muestra la impresion de un arreglo de enteros no definidos.
+__________________________________________________________________________________________
+
 # Glosario
 
 **RDIM:** Registro de direccion de memoria.

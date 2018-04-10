@@ -104,6 +104,48 @@ ________________________________________________________________________________
 
 # Glosario
 
+**Carga** Conjunto de datos transmitidos (mensaje enviado).
+
+**Carga absoluta** Es un proceso que consta de especificar la direccion absoluta del programa el cual se cargara primero estando la maquina inactiva.
+
+**Compactacion** Agrupar los datos que tine uno o varios ficheros para ahorrar espacio de almacenamiento.
+
+**Comparticion** Poner a disposicion el contenido de directorios a traves de la red.
+
+**Direccion fisica** Tambien llamada direccion real o binaria, es una direccion en la memoria que es representada por un numero binario, para permitir al bus de datos acceder a la celda de almacenamiento de la red principal de memoria o en un registro de dispositivo de E/S mapeada en memoria.
+
+**Direccion logica** Direccion de memoria que permite ejecutar codigo, almacenar y recibir datos.
+
+**Direccion relativa** Identificador de la posicion de una ubicacion de memoria en una computadora relativa a la direccion base.
+
+**Editor de enlaces** Establece la combinacion de programas, ademas crea una imagen de carga a memoria.
+
+**Enlazador** Toma los objetos generados en los primeros pasos de la compilacion, la biblioteca (informacion de los recursos necesarios), quita recursos que no se necesitan, enlaza el codigo con su biblioteca y genera un fichero ejecutable.
+
+**Fragmentacion externa** 
+
+**Fragmentacion interna** Perdida de espacio en disco, esto pasa por que el tamaño determinado de un archivo es inferior al del cluster.
+
+**Gestion de memoria** Administracion entre el rendimiento y la cantidad. Siempre se busca el mayor espacio disponible en la memoria.
+
+**Marca** Ayudan al browser como formatear el texto o que partes de texto deben de ser.
+
+**Organizacion logica** Organizacion de archivos en jerarquias (carpetas, directorios o catalogos).
+
+**Organizacion fisica** Dependiendo del dispositivo de almacenamiento. Los registros son fijos o variables y se organizan de varias formas para construir archivos fisicos.
+
+**Pagina** En los sistemas de memoria virtual, unidad de almacenamiento de datos que se lleva a la RAM, normalmente desde un disco duro, cuando un elemento solicitado de información no se encuentra allí.
+
+**Particionamiento** Divisiones de una unidad fisica de almacenamiento de datos.
+
+**Particionamiento dinamico** Ocupa una porcion de la particion extendida, formateada con un tipo de sistemas de archivos, asignandole una unidad para que el sistema operativo reconozca las particiones logicas.
+
+**Proteccion** Cuidado de memoria limite asignada para poder trabajar en las aplicaciones.
+
+**Reubicacion** Define el traspaso de los datos relacionados, con un mismo objeto de un espacio a otro de memoria.
+
+**Segmentacion** Identifica las unidades lógicas de los programas y datos para facilitar el control de acceso y participación
+
 **RDIM:** Registro de direccion de memoria.
 
 **RDAM:** Registro de datos de memoria. 

@@ -104,6 +104,22 @@ ________________________________________________________________________________
 
 # Glosario
 
+**Asignacion de ficheros** 
+
+**Asignacion de ficheros indexada** Cuenta con todos los punteros juntos dentro del bloque de indices. Tiene una vista logica.
+
+**Asignacion de ficheros contigua** Cada archivo ocupa un conjunto de bloques contiguos en el disco, ademas exista fragmentacion externa y se asigna un conjunto contiguo de bloques de creacion.
+
+**Asignacion de ficheros encadenada** Cada archivo es una lista enlazada de bloques de disco, estos bloques pueden estar dispertos en cualquier parte del disco, no exite un acceso aleatorio, no hay fragmentacion externa y no hay desperdicio de espacio.
+
+**Base de Datos** Conjunto de datos que pertenecen a un mismo contexto, almacenados sistematicamente para su posterior uso.
+
+**Bloque** Agrupacion de sectores que realiza el sistema operativo, denominado cluster en Windows. El acceso al disco que realiza el sistema se hace en esta unidad.
+
+**Campo** Espacio de almacenamiento para un dato en particular.
+
+**Campo Clave** En archivos secuenciales, los registros se almacenan por posicion, cada registro tiene el mismo tamaño y el mismo numero de campos. El primero de cada registro es leido como el campo clave.
+
 **Carga** Conjunto de datos transmitidos (mensaje enviado).
 
 **Carga absoluta** Es un proceso que consta de especificar la direccion absoluta del programa el cual se cargara primero estando la maquina inactiva.
@@ -111,6 +127,10 @@ ________________________________________________________________________________
 **Compactacion** Agrupar los datos que tine uno o varios ficheros para ahorrar espacio de almacenamiento.
 
 **Comparticion** Poner a disposicion el contenido de directorios a traves de la red.
+
+**Directorio** Contenedor virtual en el que se almacenan una agrupacion de archivos informaticos y subdirectorios.
+
+**Directorio de trabajo o actual** Son todos aquellos nombres de rutas que no empiezan con el directorio de raiz.
 
 **Direccion fisica** Tambien llamada direccion real o binaria, es una direccion en la memoria que es representada por un numero binario, para permitir al bus de datos acceder a la celda de almacenamiento de la red principal de memoria o en un registro de dispositivo de E/S mapeada en memoria.
 
@@ -122,13 +142,29 @@ ________________________________________________________________________________
 
 **Enlazador** Toma los objetos generados en los primeros pasos de la compilacion, la biblioteca (informacion de los recursos necesarios), quita recursos que no se necesitan, enlaza el codigo con su biblioteca y genera un fichero ejecutable.
 
+**Fichero** Conjunto de informacion relacionada, grabada en el sistema de almacenamiento secundario, a la que se hace referencia por un nombre.
+
+**Fichero de acceso directo** Es un concepto usado en Sistemas Operativos Windows para hacer referencia a un fichero u objeto cuyo el mismo, contiene instrucciones que redirigen a otro fichero del sistema de ficheros o a un lugar de la red.
+
+**Fichero indexado** Tiene un indice el cual permite llegar rapidamente al registro deseado, se ejecuta a traves de la direccion de punteros donde estan ubicados en los registros deseados.
+
+**Fichero secuencial** Es la forma mas comun de la estructura de archivos, los registros estan almacenados por posicion y cada registro cuenta con el mismo tamaño y numero de campos.
+
+**Fichero secuencial indexado** Los registros se organizan en una secuencia basada en un campo clave presentando dos caracteristicas, un indice de archivo para los accessos aleatorios y un archivo de desbordamiento.
+
 **Fragmentacion externa** 
 
 **Fragmentacion interna** Perdida de espacio en disco, esto pasa por que el tamaño determinado de un archivo es inferior al del cluster.
 
 **Gestion de memoria** Administracion entre el rendimiento y la cantidad. Siempre se busca el mayor espacio disponible en la memoria.
 
+**Metodo de acceso** Son formas de acceder a un archivo. Existen 2 tipos Acceso secuencial y directo.
+
 **Marca** Ayudan al browser como formatear el texto o que partes de texto deben de ser.
+
+**Nodo** Es una estructura de datos propia de los sitemas de archivos, tradicionalmente empleados en sistemas operativos UNIX.
+
+**Nombre de fichero** Es necesario dar un nombre a los ficheros para que el usuario y los programas puedan identificarlos y asi acceder a ellos. 
 
 **Organizacion logica** Organizacion de archivos en jerarquias (carpetas, directorios o catalogos).
 
@@ -140,11 +176,25 @@ ________________________________________________________________________________
 
 **Particionamiento dinamico** Ocupa una porcion de la particion extendida, formateada con un tipo de sistemas de archivos, asignandole una unidad para que el sistema operativo reconozca las particiones logicas.
 
+**Pila** Una lista apilada donde los elementos se colocan uno sobre otro y solo es accesible de manera inmediata el elemento que esta en la cima de la pila.
+
 **Proteccion** Cuidado de memoria limite asignada para poder trabajar en las aplicaciones.
+
+**Registro** Es una memoria de alta velocidad y poca capacidad integrada al microprocesador que permite guardar transitoriamente y acceder a valores muy usados, generalmente en operaciones matematicas.
 
 **Reubicacion** Define el traspaso de los datos relacionados, con un mismo objeto de un espacio a otro de memoria.
 
+**Ruta del nombre** Señala la localizacion exacta de un archivo o directorio mediante una cadena de caracteres concreta.
+
 **Segmentacion** Identifica las unidades lógicas de los programas y datos para facilitar el control de acceso y participación
+
+**Sistema de gestion de ficheros** Administracion de archivos que permite a los usuarios tengan acceso directo con los archivos y tengan control de ellos.
+
+**Tabla de asignacion de disco** 
+
+**Tabla de asignacion de ficheros** FAT lleva un seguimiento de la ubicacion de los archivos almacenados en un disco duro.
+
+**Tabla de bits** 
 
 **RDIM:** Registro de direccion de memoria.
 
